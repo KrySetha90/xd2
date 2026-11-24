@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.FileXD" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#B689FF</item>
+        <item name="colorPrimaryVariant">#915CEB</item>
+        <item name="colorOnPrimary">#000000</item>
+        <item name="colorSecondary">#63EFEA</item>
+        <item name="android:statusBarColor">#C9BBE0</item>
+    </style>
+</resources>
